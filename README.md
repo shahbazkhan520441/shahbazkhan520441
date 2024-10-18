@@ -7,7 +7,7 @@
 </hr>
 
  ⚙️ **Backend Languages:** 
-  `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
+  `Java`  |  `JDBC`  |  `Servlet ` | `Hibernate`  |  `JPA`  |  `Spring`  |  `Spring Boot`  |   `Spring Security`  |  `JMS` | `JWT`
 
 💻 **Frontend Languages:** 
   `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript`  
