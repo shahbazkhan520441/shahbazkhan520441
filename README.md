@@ -21,11 +21,11 @@
 
 <span align="left">📞📲 Connect with me:</span>
 <p align="left">
-<a href="https://twitter.com/bableshaazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bableshaazad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bableshaazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bableshaazad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22253289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22253289" height="30" width="40" /></a>
-<a href="https://fb.com/aazadbablesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aazadbablesh" height="30" width="40" /></a>
-<a href="https://instagram.com/bableshaazad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bableshaazad" height="30" width="40" /></a>
+<a href="https://x.com/Mdshahbazkhan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahbazkhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdshahbazkhan-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahbazkhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22253289" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mdshahbaz.khan.75491856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahbazkhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shahbaz_khan__009/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbazkhan" height="30" width="40" /></a>
 </p>
 
 
