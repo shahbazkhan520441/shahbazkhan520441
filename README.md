@@ -30,7 +30,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bableshaazad&&size_weight=0&count_weight=1&theme=great-gatsby&show_icons=true&locale=en&layout=compact&hide=php,powershell,batchfile" alt="shahbazkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bableshaazad&theme=dark" alt="shahbazkhan" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahbazkhan520441" alt="shahbazkhan" /></p>
 
 <!--<p><img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?bableshaazad" alt="bableshaazad" /></p> -->
