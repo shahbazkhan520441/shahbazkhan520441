@@ -1,6 +1,6 @@
 ## Hi :smile:I'm "Md Shahbaz Khan" 
 
-" `I'm a self-taught passionate FullStack Web App Developer from India. 💬 Ask me about anything` [shahbazkhan520441@gmail.com](https://shahbazkhan520441@gmail.com). "
+" `I'm  passionate  FullStack Web App Developer from India. 💬 Ask me about anything` [shahbazkhan520441@gmail.com](https://shahbazkhan520441@gmail.com). "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazkhan520441&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazkhan" /> </p>
 
