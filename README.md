@@ -10,12 +10,12 @@
   `Java`  |  `Hibernate`  |  `Spring`  |  `Spring Boot`  |  `Spring Security`  |  `JWT` | `JDBC` | `Servlet & Thymeleaf`
 
 💻 **Frontend Languages:** 
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript`  |  `ReactJS`  |  `React Router Dom` | `Redux` | `Zustand`
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript`  
 
-📚 **Databases:** `MySQL`  |  `MongoDB`
+📚 **Databases:** `MySQL`  |  `MariaDb`
 
 🛠️ **Tools:** 
- `Git & GitHub`  |  `Postman` | `CI/CD`| `Docker` | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDEA`  |  `VS Code`
+ `Git & GitHub`  |  `Postman`  | `Eclipse IDE`  |  `Spring Tool Suite`  |  `IntelliJ IDEA`  |  `VS Code`
 
 </hr>
 
