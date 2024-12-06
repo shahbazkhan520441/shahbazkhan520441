@@ -6,11 +6,11 @@
 
 </hr>
 
- ⚙️ **Backend Languages:** 
+ ⚙️ **Backend :** 
   `Java`  |  `JDBC`  |  `Servlet ` | `Hibernate`  |  `JPA`  |  `Spring`  |  `Spring Boot`  |   `Spring Security`  |  `JMS` | `JWT`
 
-💻 **Frontend Languages:** 
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript`  
+💻 **Frontend :** 
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript` | `TypeScript` | `Angular` 
 
 📚 **Databases:** `MySQL`  |  `MariaDb`
 
